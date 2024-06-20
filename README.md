@@ -7,21 +7,38 @@ This Power BI dashboard provides a comprehensive visualization of a lung cancer 
 The dataset used for this dashboard was obtained from Kaggle and includes various attributes related to lung cancer cases. The columns in the dataset are as follows:
 
 GENDER: Gender of the individual (Male, Female)
+
 AGE: Age of the individual
+
 SMOKING: Number of individuals who smoke
+
 YELLOW_FINGERS: Number of individuals with yellow fingers
+
 ANXIETY: Number of individuals with anxiety
+
 PEER_PRESSURE: Number of individuals experiencing peer pressure
+
 CHRONIC_DISEASE: Number of individuals with chronic diseases
+
 FATIGUE: Number of individuals with fatigue
+
+
 ALLERGY: Number of individuals with allergies
+
 WHEEZING: Number of individuals wheezing
+
 ALCOHOL_CONSUMING: Number of individuals consuming alcohol
+
 COUGHING: Number of individuals coughing
+
 SHORTNESS_OF_BREATH: Number of individuals with shortness of breath
+
 SWALLOWING_DIFFICULTY: Number of individuals with difficulty swallowing
+
 CHEST_PAIN: Number of individuals with chest pain
+
 LUNG_CANCER: Indicator of lung cancer (positive/negative)
+
 ### Dashboard Components
  #### Cards
 Number of Males: Displays the total number of male individuals in the dataset.
