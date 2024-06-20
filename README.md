@@ -85,3 +85,6 @@ TotalAlcoholConsumers = SUM('TableName'[ALCOHOL_CONSUMING])
  ## Data Preparation
 The dataset was cleaned and preprocessed to ensure accuracy and consistency.
 Gender values were standardized to "Male" and "Female".
+
+## Contributions
+Contributions to improve the dashboard are welcome. Please fork the repository, make your changes, and submit a pull request.
