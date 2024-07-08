@@ -47,6 +47,8 @@ Number of Females: Displays the total number of female individuals in the datase
 
 Sum of Smoking: Displays the total number of individuals who smoke.
 
+Positive Cases with Symptoms: Displays the number of positive lung cancer cases linked to key symptoms.
+
 Total Alcohol Consumers: Displays the total number of individuals who consume alcohol.
 #### Bar Charts
 Positive Cases by Age Group (≤ 49): A bar chart showing the total number of positive lung cancer cases for individuals aged 49 and below.
